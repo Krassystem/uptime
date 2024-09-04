@@ -3,15 +3,15 @@ owner: Krassystem # Your GitHub organization or username, where this repository 
 repo: uptime # The name of this repository
 
 sites:
-  - name: Krassystem
+  - name: Крассистем
     url: https://krassystem-service.ru
-  - name: Profavtodormo
+  - name: АТиДХ
     url: https://www.profavtodormo.ru
-  - name: Lariclinic
+  - name: Лари
     url: https://lariclinic.ru
-  - name: Intacto
+  - name: Интакто
     url: https://intacto.ru
-  - name: Chopy
+  - name: ЧООП
     url: https://ratibor-krasnogorsk.ru
     
 status-website:
@@ -20,11 +20,11 @@ status-website:
   cname: status.krastem.ru
   # baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime 
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Статус 
+  introTitle: "**Upptime**"
+  introMessage:
   navbar:
-    - title: Status
+    - title: Статус
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
