@@ -20,7 +20,7 @@ status-website:
   cname: status.krastem.ru
   # baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Статус 
+  name: Крассистем Статус
   introTitle: "**Upptime**"
   introMessage:
   navbar:
