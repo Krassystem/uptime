@@ -6,7 +6,7 @@ sites:
   - name: Krassystem
     url: https://krassystem-service.ru
   - name: Profavtodormo
-    url: https://profavtodormo.ru
+    url: https://www.profavtodormo.ru
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
