@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.profavtodormo.ru.ico",
     "slug": "profavtodormo",
     "status": "up",
-    "uptime": "0.72%",
-    "uptimeDay": "0.72%",
-    "uptimeWeek": "0.72%",
-    "uptimeMonth": "0.72%",
-    "uptimeYear": "0.72%",
+    "uptime": "1.14%",
+    "uptimeDay": "1.14%",
+    "uptimeWeek": "1.14%",
+    "uptimeMonth": "1.14%",
+    "uptimeYear": "1.14%",
     "time": 432,
     "timeDay": 432,
     "timeWeek": 432,
@@ -61,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/intacto.ru.ico",
     "slug": "intacto",
     "status": "up",
-    "uptime": "1.18%",
-    "uptimeDay": "1.18%",
-    "uptimeWeek": "1.18%",
-    "uptimeMonth": "1.18%",
-    "uptimeYear": "1.18%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 507,
     "timeDay": 507,
     "timeWeek": 507,
     "timeMonth": 507,
     "timeYear": 507,
-    "dailyMinutesDown": {
-      "2024-09-04": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Chopy",
@@ -81,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ratibor-krasnogorsk.ru.ico",
     "slug": "chopy",
     "status": "up",
-    "uptime": "0.63%",
-    "uptimeDay": "0.63%",
-    "uptimeWeek": "0.63%",
-    "uptimeMonth": "0.63%",
-    "uptimeYear": "0.63%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 416,
     "timeDay": 416,
     "timeWeek": 416,
     "timeMonth": 416,
     "timeYear": 416,
-    "dailyMinutesDown": {
-      "2024-09-04": 8
-    }
+    "dailyMinutesDown": {}
   }
 ]
