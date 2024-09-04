@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/profavtodormo.ru.ico",
     "slug": "a-ti-dh",
     "status": "up",
-    "uptime": "85.73%",
-    "uptimeDay": "85.73%",
-    "uptimeWeek": "85.73%",
-    "uptimeMonth": "85.73%",
-    "uptimeYear": "85.73%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1180,
     "timeDay": 1180,
     "timeWeek": 1180,
     "timeMonth": 1180,
     "timeYear": 1180,
-    "dailyMinutesDown": {
-      "2024-09-04": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Лари",
