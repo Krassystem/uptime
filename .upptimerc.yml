@@ -7,6 +7,12 @@ sites:
     url: https://krassystem-service.ru
   - name: Profavtodormo
     url: https://www.profavtodormo.ru
+  - name: Lariclinic
+    url: https://lariclinic.ru
+  - name: Intacto
+    url: https://intacto.ru
+  - name: Chopy
+    url: https://ratibor-krasnogorsk.ru
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
