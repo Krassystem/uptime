@@ -22,45 +22,49 @@
     "url": "https://profavtodormo.ru",
     "icon": "https://icons.duckduckgo.com/ip3/profavtodormo.ru.ico",
     "slug": "a-ti-dh",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1103,
     "timeDay": 1191,
     "timeWeek": 1062,
     "timeMonth": 1103,
     "timeYear": 1103,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-18": 3
+    }
   },
   {
     "name": "Лари",
     "url": "https://lariclinic.ru",
     "icon": "https://icons.duckduckgo.com/ip3/lariclinic.ru.ico",
     "slug": "lari",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 862,
     "timeDay": 1009,
     "timeWeek": 845,
     "timeMonth": 862,
     "timeYear": 862,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-18": 2
+    }
   },
   {
     "name": "Интакто",
     "url": "https://intacto.ru",
     "icon": "https://icons.duckduckgo.com/ip3/intacto.ru.ico",
     "slug": "intakto",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +73,9 @@
     "timeWeek": 988,
     "timeMonth": 1009,
     "timeYear": 1009,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-18": 0
+    }
   },
   {
     "name": "ЧООП",
